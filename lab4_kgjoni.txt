@@ -1,0 +1,19 @@
+test_0 (__main__.lab4e.test_0)
+[Lab 4] - [Investigation 2] - [Part 2] - Strings - Test for file creation: ./lab4e.py ... ok
+test_a (__main__.lab4e.test_a)
+[Lab 4] - [Investigation 2] - [Part 2] - Strings - Test for errors running: ./lab4e.py ... ok
+test_a1 (__main__.lab4e.test_a1)
+[Lab 4] - [Investigation 2] - [Part 2] - Strings - Test for correct shebang line: ./lab4e.py ... ok
+test_b_function_is_digits (__main__.lab4e.test_b_function_is_digits)
+[Lab 4] - [Investigation 2] - [Part 2] - Functions - is_digits("3058") has correct output ... ok
+test_c_function_is_digits (__main__.lab4e.test_c_function_is_digits)
+[Lab 4] - [Investigation 2] - [Part 2] - Functions - is_digits("x3058") has correct output ... ok
+test_d_function_is_digits (__main__.lab4e.test_d_function_is_digits)
+[Lab 4] - [Investigation 2] - [Part 2] - Functions - is_digits("8503x") has correct output ... ok
+test_e_function_is_digits (__main__.lab4e.test_e_function_is_digits)
+[Lab 4] - [Investigation 2] - [Part 2] - Functions - is_digits("8503") has correct output ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.020s
+
+OK
